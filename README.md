@@ -23,6 +23,8 @@
 
 - :briefcase: Currently interning as a Business Systems Analyst at Skyworks Solutions,Woburn,MA.
 
+- :briefcase: Previously worked as Application Developer, Design Engineer and Project manager in top corporate companies.
+
 - :seedling: Looking out for new fulltime job opportunities in Data Analyst and Management domains.
 
 - :zap: In my free time, I work on independent projects, do online courses/certifications,  I also possess excellent culinary skills and am proficient in cooking a variety of dishes with great taste and presentation.
