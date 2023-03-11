@@ -7,7 +7,12 @@
   <a href="https://www.linkedin.com/in/bonam7474/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:sindhuribonam7474@gmail.com">
+    <img src="https://img.shields.io/badge/-sindhuri-c14438?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
  </div>
+ 
+
  
 <img src="https://komarev.com/ghpvc/?username=sindhuri7474&style=flat-square&color=blue" alt=""/>
 
@@ -53,5 +58,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
+---
+### 💼 Work and Projects :
 
+<div>
+  
+#### Power BI Projects 
+ [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+ [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+  
+#### Tableau Projects 
+ [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+ [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+ 
+#### Excel Projects
+ [![](https://img.shields.io/badge/-💸%20Sales-000)](https://github.com/sindhuri7474/Excel-Projects/tree/main/Dunder%20Mifflin%20Revenue%20Dashboard)
+  
+#### Course Projects
+ [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/sindhuri7474/Course-projects/tree/main/Bigdata%20Project)
+ [![](https://img.shields.io/badge/-🚗%20UberTrips%20Analysis-000)](https://github.com/sindhuri7474/Course-projects/tree/main/Python%20Project)
+ [![](https://img.shields.io/badge/-💳%20CreditCard%20Defaulters-000)](https://github.com/sindhuri7474/Course-projects/tree/main/AppliedMachineLearning%20Project)
+  
+</div>
 
