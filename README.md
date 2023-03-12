@@ -64,20 +64,20 @@
 <div>
   
 #### Power BI Projects 
- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
- [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+ [![](https://img.shields.io/badge/-🧬%20My%20Website-068)](https://github.com/adamalston/v2)
+ [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-068)](https://github.com/adamalston/COVID-19-Dashboard)
   
 #### Tableau Projects 
- [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
- [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+ [![](https://img.shields.io/badge/-🎥%20Netflix%20Movies%20&%20TV%20Shows-068)](https://github.com/sindhuri7474/Tableau-Projects/tree/main/Netflix%20Dashboard)
+ [![](https://img.shields.io/badge/-🎮%20Video%20Games%20Analysis-068)](https://github.com/sindhuri7474/Tableau-Projects/tree/main/Video%20Games%20Analysis)
  
 #### Excel Projects
- [![](https://img.shields.io/badge/-💸%20Sales-000)](https://github.com/sindhuri7474/Excel-Projects/tree/main/Dunder%20Mifflin%20Revenue%20Dashboard)
+ [![](https://img.shields.io/badge/-💸%20Sales-068)](https://github.com/sindhuri7474/Excel-Projects/tree/main/Dunder%20Mifflin%20Revenue%20Dashboard)
   
 #### Course Projects
- [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/sindhuri7474/Course-projects/tree/main/Bigdata%20Project)
- [![](https://img.shields.io/badge/-🚗%20UberTrips%20Analysis-000)](https://github.com/sindhuri7474/Course-projects/tree/main/Python%20Project)
- [![](https://img.shields.io/badge/-💳%20CreditCard%20Defaulters-000)](https://github.com/sindhuri7474/Course-projects/tree/main/AppliedMachineLearning%20Project)
+ [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-068)](https://github.com/sindhuri7474/Course-projects/tree/main/Bigdata%20Project)
+ [![](https://img.shields.io/badge/-🚗%20UberTrips%20Analysis-068)](https://github.com/sindhuri7474/Course-projects/tree/main/Python%20Project)
+ [![](https://img.shields.io/badge/-💳%20CreditCard%20Defaulters-068)](https://github.com/sindhuri7474/Course-projects/tree/main/AppliedMachineLearning%20Project)
   
 </div>
 
