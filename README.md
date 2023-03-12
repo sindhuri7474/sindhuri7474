@@ -64,7 +64,7 @@
 <div>
   
 #### Power BI Projects 
- [![](https://img.shields.io/badge/-🧬%20My%20Website-068)](https://github.com/adamalston/v2)
+ [![](https://img.shields.io/badge/-☎️%20Customer%20Churn%20Analysis-068)](https://github.com/sindhuri7474/Power-BI-projects/tree/main/Telecom%20Customer%20Churn%20Analysis)
  [![](https://img.shields.io/badge/-🛳️%20Titanic%20Survival%20Analysis-068)](https://github.com/sindhuri7474/Power-BI-projects/tree/main/Titanic%20Survival%20Analysis)
   
 #### Tableau Projects 
