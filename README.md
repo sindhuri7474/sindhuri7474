@@ -36,7 +36,16 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bonam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bonam7474/)
 
+---
 
+### 🧮 Skill Set:
+
+- 📊 Power BI
+- 📈 Tableau
+- ⌨️ SQL
+- 🔢 Excel & Excel VBA
+- 🐍 Python
+- 🎯 R programming
 
 ---
 
