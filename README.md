@@ -34,7 +34,7 @@
 
 - :zap: In my free time, I work on independent projects, do online courses/certifications,  I also possess excellent culinary skills and am proficient in cooking a variety of dishes with great taste and presentation.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bonam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bonam7474/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bonam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bonam7474/)
 
 
 
