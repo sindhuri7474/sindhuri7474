@@ -70,6 +70,10 @@
 #### Tableau Projects 
  [![](https://img.shields.io/badge/-🎥%20Netflix%20Movies%20&%20TV%20Shows-068)](https://github.com/sindhuri7474/Tableau-Projects/tree/main/Netflix%20Dashboard)
  [![](https://img.shields.io/badge/-🎮%20Video%20Games%20Analysis-068)](https://github.com/sindhuri7474/Tableau-Projects/tree/main/Video%20Games%20Analysis)
+  
+#### Python Projects
+  [![](https://img.shields.io/badge/-🚗%20Audi%20Price%20Regression-068)](https://github.com/sindhuri7474/Python_Projects/tree/main/Audi%20Price%20Regression%20Analysis)
+  [![](https://img.shields.io/badge/-💝%20Heart%20Disease%20Prediction-068)](https://github.com/sindhuri7474/Python_Projects/tree/main/Heart%20Disease%20Prediction)
  
 #### Excel Projects
  [![](https://img.shields.io/badge/-💸%20Sales-068)](https://github.com/sindhuri7474/Excel-Projects/tree/main/Dunder%20Mifflin%20Revenue%20Dashboard)
