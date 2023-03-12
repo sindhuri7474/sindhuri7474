@@ -65,7 +65,7 @@
   
 #### Power BI Projects 
  [![](https://img.shields.io/badge/-🧬%20My%20Website-068)](https://github.com/adamalston/v2)
- [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-068)](https://github.com/adamalston/COVID-19-Dashboard)
+ [![](https://img.shields.io/badge/-🛳️%20Titanic%20Survival%20Analysis-068)](https://github.com/sindhuri7474/Power-BI-projects/tree/main/Titanic%20Survival%20Analysis)
   
 #### Tableau Projects 
  [![](https://img.shields.io/badge/-🎥%20Netflix%20Movies%20&%20TV%20Shows-068)](https://github.com/sindhuri7474/Tableau-Projects/tree/main/Netflix%20Dashboard)
